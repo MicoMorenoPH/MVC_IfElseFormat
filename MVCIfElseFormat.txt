@@ -1,0 +1,17 @@
+1. first format
+if(condition == true)
+{
+..do something here
+}
+else
+{
+..do something here
+}
+
+2. second format
+
+return (condition == true) ? true : false;       
+
+string classify;
+classify = (confition == true) ? "true" : "false";
+return classify;
